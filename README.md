@@ -11,6 +11,8 @@ cleanup
 ### AmirKabir Intelligent Transportation Systems Simulator. Developed by Alireza Naimi 2007
 Some screenshots and videos of the software capabilities
 
+[link to the archived page](https://web.archive.org/web/20110202225120/http://www.akitsim.com/)
+
 ---
 Videos
 =============
